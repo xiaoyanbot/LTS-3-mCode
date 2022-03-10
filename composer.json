@@ -1,5 +1,5 @@
 {
-    "name": "thinkphp-lts/thinkphp-3-lts",
+    "name": "xiaoyanbot/LTS-3-mCode",
     "description": "ThinkPHP 3.x Framework LTS Version",
     "type": "framework",
     "keywords": ["framework","thinkphp","ORM"],

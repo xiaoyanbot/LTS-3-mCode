@@ -47,7 +47,7 @@ define('APP_PATH', './Application/');
 define("STATIC_PATH","http://cdn.com/");
 
 // 引入ThinkPHP入口文件
-require './vendor/thinkphp-lts/thinkphp-3-lts/src/ThinkPHP/ThinkPHP.php';
+require './vendor/thinkphp-lts/thinkphp-3-lts/src/ThinkPHP.php';
 
 // 亲^_^ 后面不需要任何代码了 就是如此简单
 
